@@ -1,4 +1,7 @@
 p {
     font-size: 40px;
     color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
