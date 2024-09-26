@@ -2,4 +2,4 @@
 
 Hello friends !
 
-Un developeur aime un peu trop FNF.
+Un développeur aime un peu trop FNF.
